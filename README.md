@@ -17,6 +17,7 @@ An interactive weather visualization application featuring a modern, futuristic 
 
 - Python 3.8+
 - Flask
+- Geopy
 - OpenWeatherMap API key
 - Internet connection for API access
 
